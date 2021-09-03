@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou o Luan.
+- 👋 Oi, eu sou o Luan.
 - 👀 Estou interessado em várias coisas, especialmente em progração aplicada em engenharia e tecnologia espaciais.
 - 🌱 Meus estudos atuais são sobre esse tema, com foco em mecânica espacial e controle.
 - 💞️ Vou colocar meus trabalhos aqui.
